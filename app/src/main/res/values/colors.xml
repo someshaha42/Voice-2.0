@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="studio_obsidian">#0B0E14</color>
+  <color name="studio_rack">#131822</color>
+  <color name="cyan_signal">#00D4FF</color>
+</resources>
